@@ -1,0 +1,5 @@
+# Vigenere-Sifreleme
+Vigenere şifreleme tekniğinin simple Pyhton kodları.
+hkgkgghgkhgkgkhgkghkgkl
+jgjgjgjgjfgjfjkfjkgfjgfgjfjkffjkgjfjgfkj
+jgjgjfgfjgkg
